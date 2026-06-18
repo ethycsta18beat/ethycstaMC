@@ -1,4 +1,4 @@
-🎮 ethycstaMC
+# 🎮 ethycstaMC
 
 Welcome to ethycstaMC! 🚀
 
