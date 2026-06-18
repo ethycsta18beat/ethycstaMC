@@ -54,7 +54,7 @@
     <string name="mcl_setting_title_ignore_notch">Ignore notch</string>
     <string name="mcl_setting_subtitle_ignore_notch">Ignores the notch and extends the screen under it.\nGives you a more immersive experience.</string>
     <string name="mcl_setting_title_resolution_scaler">Resolution Scaler</string>
-    <string name="mcl_setting_subtitle_resolution_scaler">Allows you to decrease the game resolution. 100% is full resolution.</string>
+    <string name="mcl_setting_subtitle_resolution_scaler">Allows you to decrease the game resolution. 100% is full resolution, use 50% if low end potato.</string>
     <string name="mcl_setting_title_longpresstrigger">Trigger long press delay</string>
     <string name="mcl_setting_subtitle_longpresstrigger">Change long press trigger delay for destroying blocks and dropping items.</string>
     <string name="mcl_setting_title_buttonscale">Control buttons scaling</string>
